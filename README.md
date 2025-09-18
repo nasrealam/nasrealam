@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 Featured Projects
-📌 [**Portfolio Website**](https://nasrealam.github.io) – My personal portfolio showcasing my projects. 
+📌 [**Portfolio Website**](https://nasrealam.github.io) – My personal portfolio showcasing my projects.
 📌 [**Etrivia App**](#) – An educational app for learning alphabets (English, Arabic, Urdu, Hindi) & numbers.  
 📌 [**Instagram Downloader**](#) – Node.js app to download public profile photos & videos.  
 📌 [**LocalNews App**](#) – News app built with Ionic Angular & Node.js backend.  
