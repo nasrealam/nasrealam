@@ -41,5 +41,5 @@
 
 ### 📫 Connect With Me
 🌐 Portfolio: [nasrealam.github.io](https://nasrealam.github.io)  
-💼 LinkedIn: [linkedin.com/in/nasrealam](#)  
-📧 Email: nasrealam@example.com  
+💼 LinkedIn: [linkedin.com/in/nasrealam1]
+📧 Email: nasrealam407@gmail.com  
