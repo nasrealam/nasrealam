@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🎓 BCA Graduate from Indira Gandhi National Open University  
 - 🔭 Currently working on **LocalNews App** (Ionic Angular + Node.js backend)  
-- 📚 Pursuing **MEAN Stack Course on Udemy** to enhance skills  
+- 📚 Completed **MEAN Stack Course on Udemy** to enhance skills  
 - 💡 Passionate about creating **user-centric, dynamic, and secure applications**  
 
 ---
